@@ -17,13 +17,20 @@ que é o foco principal do QA.
 
 ## Verificação e Validação (V&V)
 
-Verificação: É a pratica de verificar tudo relacionado ao que sera desenvolvido, documentação, requisitos reunioes com o time
-essa etapa antecede o desenvolvimento do produto e acontece durante também em times ageis para garantir que seja desenvolvido o produto
-de forma funcional e seguindo os requisitos.
+Verificação: Garante que o software está sendo construído corretamente,
+ou seja, seguindo a documentação, os requisitos e os padrões definidos
+pelo time. A pergunta central é: "Estamos construindo certo o produto?"
+Acontece durante todo o processo de desenvolvimento.
 
-Validação: Pratica principal é validar oque foi criado em produção, aqui entra a etapa de QC e testes para garantir que oque
-foi criado tenha qualidade e se houver bugs resolve-los, e inspecionar oque foi criado também garantindo que segue os padroes
-para satisfação do cliente e usuario final.
+Validação: Garante que o software atende à necessidade real do cliente,
+ou seja, que o produto certo foi construído. A pergunta central é:
+"Estamos construindo o produto certo?" Acontece principalmente após
+o desenvolvimento, com testes e homologação.
+
+Ponto importante: um software pode passar na verificação e reprovar
+na validação. Isso acontece quando os requisitos foram mal levantados
+— o sistema foi construído corretamente, mas não resolve o problema
+do cliente.
 
 ## Shift Left
 
